@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = C:\Users\amanu\OneDrive\Desktop\KIFIYA_10_ACADEMY\Insurance-Analytics\local_storage
